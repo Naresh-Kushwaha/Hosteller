@@ -1,0 +1,11 @@
+.hostel7{
+    display: flex;
+   align-items: center;
+   flex-direction: column; padding: 22px;
+    
+  height:screen;
+
+    box-sizing: border-box;
+   background-color: #A7BEAE ; 
+   color:#B85042;
+}
